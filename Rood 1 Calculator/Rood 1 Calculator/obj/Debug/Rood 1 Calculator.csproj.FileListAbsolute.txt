@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\bin\Debug\Rood 1 Calculator.exe.config
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\bin\Debug\Rood 1 Calculator.exe
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\bin\Debug\Rood 1 Calculator.pdb
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\obj\Debug\Rood 1 Calculator.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\obj\Debug\Rood_1_Calculator.Calculator.resources
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\obj\Debug\Rood_1_Calculator.Properties.Resources.resources
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\obj\Debug\Rood 1 Calculator.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\obj\Debug\Rood 1 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\obj\Debug\Rood 1 Calculator.exe
+C:\Users\domin\source\repos\Rood 1 Calculator\Rood 1 Calculator\obj\Debug\Rood 1 Calculator.pdb
